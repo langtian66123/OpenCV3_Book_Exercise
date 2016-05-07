@@ -7,6 +7,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2_ShowImage", "2_ShowImage\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3_ImageErode", "3_ImageErode\3_ImageErode.vcxproj", "{65FCD21E-B62D-4A5D-947A-613908CD5D1A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4_BlurImage", "3_BlurImage\3_BlurImage.vcxproj", "{DB0CA68A-D598-4404-B69A-0B87EBA1DCF8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5_CannyImage", "5_CannyImage\5_CannyImage.vcxproj", "{0921F6BA-852C-4830-8902-96E1308F174E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -25,6 +29,14 @@ Global
 		{65FCD21E-B62D-4A5D-947A-613908CD5D1A}.Debug|Win32.Build.0 = Debug|Win32
 		{65FCD21E-B62D-4A5D-947A-613908CD5D1A}.Release|Win32.ActiveCfg = Release|Win32
 		{65FCD21E-B62D-4A5D-947A-613908CD5D1A}.Release|Win32.Build.0 = Release|Win32
+		{DB0CA68A-D598-4404-B69A-0B87EBA1DCF8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB0CA68A-D598-4404-B69A-0B87EBA1DCF8}.Debug|Win32.Build.0 = Debug|Win32
+		{DB0CA68A-D598-4404-B69A-0B87EBA1DCF8}.Release|Win32.ActiveCfg = Release|Win32
+		{DB0CA68A-D598-4404-B69A-0B87EBA1DCF8}.Release|Win32.Build.0 = Release|Win32
+		{0921F6BA-852C-4830-8902-96E1308F174E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0921F6BA-852C-4830-8902-96E1308F174E}.Debug|Win32.Build.0 = Debug|Win32
+		{0921F6BA-852C-4830-8902-96E1308F174E}.Release|Win32.ActiveCfg = Release|Win32
+		{0921F6BA-852C-4830-8902-96E1308F174E}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
