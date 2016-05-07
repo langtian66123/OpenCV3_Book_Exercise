@@ -5,6 +5,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1_HelloOpenCV", "1_HelloOpe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2_ShowImage", "2_ShowImage\2_ShowImage.vcxproj", "{E9C85D34-E3B5-47E3-9F75-D8E71B2B2931}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3_ImageErode", "3_ImageErode\3_ImageErode.vcxproj", "{65FCD21E-B62D-4A5D-947A-613908CD5D1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +21,10 @@ Global
 		{E9C85D34-E3B5-47E3-9F75-D8E71B2B2931}.Debug|Win32.Build.0 = Debug|Win32
 		{E9C85D34-E3B5-47E3-9F75-D8E71B2B2931}.Release|Win32.ActiveCfg = Release|Win32
 		{E9C85D34-E3B5-47E3-9F75-D8E71B2B2931}.Release|Win32.Build.0 = Release|Win32
+		{65FCD21E-B62D-4A5D-947A-613908CD5D1A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{65FCD21E-B62D-4A5D-947A-613908CD5D1A}.Debug|Win32.Build.0 = Debug|Win32
+		{65FCD21E-B62D-4A5D-947A-613908CD5D1A}.Release|Win32.ActiveCfg = Release|Win32
+		{65FCD21E-B62D-4A5D-947A-613908CD5D1A}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
