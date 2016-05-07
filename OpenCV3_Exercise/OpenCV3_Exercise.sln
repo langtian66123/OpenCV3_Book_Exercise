@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5_CannyImage", "5_CannyImag
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6_PlayVideo", "6_PlayVideo\6_PlayVideo.vcxproj", "{CEF9F89C-6BF4-4512-85CF-A69C906E66F2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7_UseCamera", "7_UseCamera\7_UseCamera.vcxproj", "{CFFD4E48-F284-4E99-BCA9-9E56C7347302}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -43,6 +45,10 @@ Global
 		{CEF9F89C-6BF4-4512-85CF-A69C906E66F2}.Debug|Win32.Build.0 = Debug|Win32
 		{CEF9F89C-6BF4-4512-85CF-A69C906E66F2}.Release|Win32.ActiveCfg = Release|Win32
 		{CEF9F89C-6BF4-4512-85CF-A69C906E66F2}.Release|Win32.Build.0 = Release|Win32
+		{CFFD4E48-F284-4E99-BCA9-9E56C7347302}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CFFD4E48-F284-4E99-BCA9-9E56C7347302}.Debug|Win32.Build.0 = Debug|Win32
+		{CFFD4E48-F284-4E99-BCA9-9E56C7347302}.Release|Win32.ActiveCfg = Release|Win32
+		{CFFD4E48-F284-4E99-BCA9-9E56C7347302}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
