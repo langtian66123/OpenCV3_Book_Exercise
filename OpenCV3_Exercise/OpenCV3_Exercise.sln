@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1_HelloOpenCV", "1_HelloOpenCV\1_HelloOpenCV.vcxproj", "{0F120EFC-1024-43DC-94DF-92A206718EFB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2_ShowImage", "2_ShowImage\2_ShowImage.vcxproj", "{E9C85D34-E3B5-47E3-9F75-D8E71B2B2931}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -13,6 +15,10 @@ Global
 		{0F120EFC-1024-43DC-94DF-92A206718EFB}.Debug|Win32.Build.0 = Debug|Win32
 		{0F120EFC-1024-43DC-94DF-92A206718EFB}.Release|Win32.ActiveCfg = Release|Win32
 		{0F120EFC-1024-43DC-94DF-92A206718EFB}.Release|Win32.Build.0 = Release|Win32
+		{E9C85D34-E3B5-47E3-9F75-D8E71B2B2931}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9C85D34-E3B5-47E3-9F75-D8E71B2B2931}.Debug|Win32.Build.0 = Debug|Win32
+		{E9C85D34-E3B5-47E3-9F75-D8E71B2B2931}.Release|Win32.ActiveCfg = Release|Win32
+		{E9C85D34-E3B5-47E3-9F75-D8E71B2B2931}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,4 +6,5 @@ int main(){
 	imshow("载入的图片",img);
 	//等待6000 ms后窗口自动关闭
 	waitKey(6000);
+	return 0;
 }
