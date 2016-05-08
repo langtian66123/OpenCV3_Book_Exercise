@@ -23,6 +23,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10_lkdemo", "10_lkdemo\10_l
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11_ObjectDetection", "11_ObjectDetection\11_ObjectDetection.vcxproj", "{B31D4ECD-F533-428E-9BB6-93F25908EEBB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12_SupportVectorMachines", "12_SupportVectorMachines\12_SupportVectorMachines.vcxproj", "{747434CE-3B21-48A4-819B-0692A7F795FC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13_SVMForNonLinearlySeparableData", "13_SVMForNonLinearlySeparableData\13_SVMForNonLinearlySeparableData.vcxproj", "{8BA11DEF-4253-4210-9732-110215E3E014}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -73,6 +77,14 @@ Global
 		{B31D4ECD-F533-428E-9BB6-93F25908EEBB}.Debug|Win32.Build.0 = Debug|Win32
 		{B31D4ECD-F533-428E-9BB6-93F25908EEBB}.Release|Win32.ActiveCfg = Release|Win32
 		{B31D4ECD-F533-428E-9BB6-93F25908EEBB}.Release|Win32.Build.0 = Release|Win32
+		{747434CE-3B21-48A4-819B-0692A7F795FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{747434CE-3B21-48A4-819B-0692A7F795FC}.Debug|Win32.Build.0 = Debug|Win32
+		{747434CE-3B21-48A4-819B-0692A7F795FC}.Release|Win32.ActiveCfg = Release|Win32
+		{747434CE-3B21-48A4-819B-0692A7F795FC}.Release|Win32.Build.0 = Release|Win32
+		{8BA11DEF-4253-4210-9732-110215E3E014}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8BA11DEF-4253-4210-9732-110215E3E014}.Debug|Win32.Build.0 = Debug|Win32
+		{8BA11DEF-4253-4210-9732-110215E3E014}.Release|Win32.ActiveCfg = Release|Win32
+		{8BA11DEF-4253-4210-9732-110215E3E014}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
