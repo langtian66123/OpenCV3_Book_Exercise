@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8_CamShiftDemo", "8_CamShif
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9_OpticalFlow", "9_OpticalFlow\9_OpticalFlow.vcxproj", "{A005542E-E62C-4845-ADFE-75963B8CFDC4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10_lkdemo", "10_lkdemo\10_lkdemo.vcxproj", "{EDE13B2D-B7E6-4C64-B0EC-4E2210F191B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -61,6 +63,10 @@ Global
 		{A005542E-E62C-4845-ADFE-75963B8CFDC4}.Debug|Win32.Build.0 = Debug|Win32
 		{A005542E-E62C-4845-ADFE-75963B8CFDC4}.Release|Win32.ActiveCfg = Release|Win32
 		{A005542E-E62C-4845-ADFE-75963B8CFDC4}.Release|Win32.Build.0 = Release|Win32
+		{EDE13B2D-B7E6-4C64-B0EC-4E2210F191B8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EDE13B2D-B7E6-4C64-B0EC-4E2210F191B8}.Debug|Win32.Build.0 = Debug|Win32
+		{EDE13B2D-B7E6-4C64-B0EC-4E2210F191B8}.Release|Win32.ActiveCfg = Release|Win32
+		{EDE13B2D-B7E6-4C64-B0EC-4E2210F191B8}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
