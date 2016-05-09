@@ -41,6 +41,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20_DrawImage", "20_DrawImag
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "21_UsePointerAccessPixel", "21_UsePointerAccessPixel\21_UsePointerAccessPixel.vcxproj", "{6D69850F-B813-4902-8678-25B506286578}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "22_UseIteratorAccessPixel", "22_UseIteratorAccessPixel\22_UseIteratorAccessPixel.vcxproj", "{0D3FD3AD-B5BB-4ED3-8DC5-5D2777BA2274}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "23_UseAtAccessPixel", "23_UseAtAccessPixel\23_UseAtAccessPixel.vcxproj", "{67CC4124-13F5-41FA-A90D-4A8D5B1AF91D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -127,6 +131,14 @@ Global
 		{6D69850F-B813-4902-8678-25B506286578}.Debug|Win32.Build.0 = Debug|Win32
 		{6D69850F-B813-4902-8678-25B506286578}.Release|Win32.ActiveCfg = Release|Win32
 		{6D69850F-B813-4902-8678-25B506286578}.Release|Win32.Build.0 = Release|Win32
+		{0D3FD3AD-B5BB-4ED3-8DC5-5D2777BA2274}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0D3FD3AD-B5BB-4ED3-8DC5-5D2777BA2274}.Debug|Win32.Build.0 = Debug|Win32
+		{0D3FD3AD-B5BB-4ED3-8DC5-5D2777BA2274}.Release|Win32.ActiveCfg = Release|Win32
+		{0D3FD3AD-B5BB-4ED3-8DC5-5D2777BA2274}.Release|Win32.Build.0 = Release|Win32
+		{67CC4124-13F5-41FA-A90D-4A8D5B1AF91D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{67CC4124-13F5-41FA-A90D-4A8D5B1AF91D}.Debug|Win32.Build.0 = Debug|Win32
+		{67CC4124-13F5-41FA-A90D-4A8D5B1AF91D}.Release|Win32.ActiveCfg = Release|Win32
+		{67CC4124-13F5-41FA-A90D-4A8D5B1AF91D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
