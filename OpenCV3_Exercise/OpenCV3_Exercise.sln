@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17_CreateTrackbar", "17_Cre
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18_UseMouse", "18_UseMouse\18_UseMouse.vcxproj", "{FDE65A89-BEEE-4663-BDDC-4DD3DCD3F705}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19_UseMat", "19_UseMat\19_UseMat.vcxproj", "{08B410D2-9E88-4744-BE2D-35BDAFC27D4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -109,6 +111,10 @@ Global
 		{FDE65A89-BEEE-4663-BDDC-4DD3DCD3F705}.Debug|Win32.Build.0 = Debug|Win32
 		{FDE65A89-BEEE-4663-BDDC-4DD3DCD3F705}.Release|Win32.ActiveCfg = Release|Win32
 		{FDE65A89-BEEE-4663-BDDC-4DD3DCD3F705}.Release|Win32.Build.0 = Release|Win32
+		{08B410D2-9E88-4744-BE2D-35BDAFC27D4F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{08B410D2-9E88-4744-BE2D-35BDAFC27D4F}.Debug|Win32.Build.0 = Debug|Win32
+		{08B410D2-9E88-4744-BE2D-35BDAFC27D4F}.Release|Win32.ActiveCfg = Release|Win32
+		{08B410D2-9E88-4744-BE2D-35BDAFC27D4F}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
