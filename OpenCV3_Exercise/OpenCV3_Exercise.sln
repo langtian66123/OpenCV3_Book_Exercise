@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19_UseMat", "19_UseMat\19_U
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20_DrawImage", "20_DrawImage\20_DrawImage.vcxproj", "{7E97A134-E5B5-4BE0-B00D-D80A66EF94E8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "21_UsePointerAccessPixel", "21_UsePointerAccessPixel\21_UsePointerAccessPixel.vcxproj", "{6D69850F-B813-4902-8678-25B506286578}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -121,6 +123,10 @@ Global
 		{7E97A134-E5B5-4BE0-B00D-D80A66EF94E8}.Debug|Win32.Build.0 = Debug|Win32
 		{7E97A134-E5B5-4BE0-B00D-D80A66EF94E8}.Release|Win32.ActiveCfg = Release|Win32
 		{7E97A134-E5B5-4BE0-B00D-D80A66EF94E8}.Release|Win32.Build.0 = Release|Win32
+		{6D69850F-B813-4902-8678-25B506286578}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6D69850F-B813-4902-8678-25B506286578}.Debug|Win32.Build.0 = Debug|Win32
+		{6D69850F-B813-4902-8678-25B506286578}.Release|Win32.ActiveCfg = Release|Win32
+		{6D69850F-B813-4902-8678-25B506286578}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
