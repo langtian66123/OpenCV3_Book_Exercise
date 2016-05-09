@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "23_UseAtAccessPixel", "23_U
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24_14WaysToAccessPixel", "24_14WaysToAccessPixel\24_14WaysToAccessPixel.vcxproj", "{2CF08BDD-B71F-4743-B0E6-A357154FD995}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "25_ImageBlending", "25_ImageBlending\25_ImageBlending.vcxproj", "{BD410A55-3CC1-409F-B364-0D5086AB75AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -145,6 +147,10 @@ Global
 		{2CF08BDD-B71F-4743-B0E6-A357154FD995}.Debug|Win32.Build.0 = Debug|Win32
 		{2CF08BDD-B71F-4743-B0E6-A357154FD995}.Release|Win32.ActiveCfg = Release|Win32
 		{2CF08BDD-B71F-4743-B0E6-A357154FD995}.Release|Win32.Build.0 = Release|Win32
+		{BD410A55-3CC1-409F-B364-0D5086AB75AD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BD410A55-3CC1-409F-B364-0D5086AB75AD}.Debug|Win32.Build.0 = Debug|Win32
+		{BD410A55-3CC1-409F-B364-0D5086AB75AD}.Release|Win32.ActiveCfg = Release|Win32
+		{BD410A55-3CC1-409F-B364-0D5086AB75AD}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
