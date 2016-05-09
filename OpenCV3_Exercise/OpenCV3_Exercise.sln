@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18_UseMouse", "18_UseMouse\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19_UseMat", "19_UseMat\19_UseMat.vcxproj", "{08B410D2-9E88-4744-BE2D-35BDAFC27D4F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20_DrawImage", "20_DrawImage\20_DrawImage.vcxproj", "{7E97A134-E5B5-4BE0-B00D-D80A66EF94E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -115,6 +117,10 @@ Global
 		{08B410D2-9E88-4744-BE2D-35BDAFC27D4F}.Debug|Win32.Build.0 = Debug|Win32
 		{08B410D2-9E88-4744-BE2D-35BDAFC27D4F}.Release|Win32.ActiveCfg = Release|Win32
 		{08B410D2-9E88-4744-BE2D-35BDAFC27D4F}.Release|Win32.Build.0 = Release|Win32
+		{7E97A134-E5B5-4BE0-B00D-D80A66EF94E8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7E97A134-E5B5-4BE0-B00D-D80A66EF94E8}.Debug|Win32.Build.0 = Debug|Win32
+		{7E97A134-E5B5-4BE0-B00D-D80A66EF94E8}.Release|Win32.ActiveCfg = Release|Win32
+		{7E97A134-E5B5-4BE0-B00D-D80A66EF94E8}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
