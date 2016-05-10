@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "27_ChangeContrastAndBright"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "28_DFT", "28_DFT\28_DFT.vcxproj", "{E4978932-53C1-48E2-9D03-A96A59092DD5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "29_Write_XML_and_YAML_File", "29_Write_XML_and_YAML_File\29_Write_XML_and_YAML_File.vcxproj", "{6C938BB3-6462-42AA-8C33-64D32F78BA5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -169,6 +171,10 @@ Global
 		{E4978932-53C1-48E2-9D03-A96A59092DD5}.Debug|Win32.Build.0 = Debug|Win32
 		{E4978932-53C1-48E2-9D03-A96A59092DD5}.Release|Win32.ActiveCfg = Release|Win32
 		{E4978932-53C1-48E2-9D03-A96A59092DD5}.Release|Win32.Build.0 = Release|Win32
+		{6C938BB3-6462-42AA-8C33-64D32F78BA5D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C938BB3-6462-42AA-8C33-64D32F78BA5D}.Debug|Win32.Build.0 = Debug|Win32
+		{6C938BB3-6462-42AA-8C33-64D32F78BA5D}.Release|Win32.ActiveCfg = Release|Win32
+		{6C938BB3-6462-42AA-8C33-64D32F78BA5D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
