@@ -53,6 +53,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "26_MultiChannelImageBlendin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "27_ChangeContrastAndBright", "27_ChangeContrastAndBright\27_ChangeContrastAndBright.vcxproj", "{932514D2-0D79-435E-AF4C-682AB6429075}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "28_DFT", "28_DFT\28_DFT.vcxproj", "{E4978932-53C1-48E2-9D03-A96A59092DD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -163,6 +165,10 @@ Global
 		{932514D2-0D79-435E-AF4C-682AB6429075}.Debug|Win32.Build.0 = Debug|Win32
 		{932514D2-0D79-435E-AF4C-682AB6429075}.Release|Win32.ActiveCfg = Release|Win32
 		{932514D2-0D79-435E-AF4C-682AB6429075}.Release|Win32.Build.0 = Release|Win32
+		{E4978932-53C1-48E2-9D03-A96A59092DD5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E4978932-53C1-48E2-9D03-A96A59092DD5}.Debug|Win32.Build.0 = Debug|Win32
+		{E4978932-53C1-48E2-9D03-A96A59092DD5}.Release|Win32.ActiveCfg = Release|Win32
+		{E4978932-53C1-48E2-9D03-A96A59092DD5}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
