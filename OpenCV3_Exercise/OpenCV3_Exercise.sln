@@ -81,6 +81,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "40_dilate_And_erode", "40_d
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "48_Morphology", "48_Morphology\48_Morphology.vcxproj", "{E28EFEFF-52F2-4F3E-8613-EFC8DF14117D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "49_floodFill", "49_floodFill\49_floodFill.vcxproj", "{4DB24F04-D12D-4B30-8F0B-9EA31A8A2703}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -247,6 +249,10 @@ Global
 		{E28EFEFF-52F2-4F3E-8613-EFC8DF14117D}.Debug|Win32.Build.0 = Debug|Win32
 		{E28EFEFF-52F2-4F3E-8613-EFC8DF14117D}.Release|Win32.ActiveCfg = Release|Win32
 		{E28EFEFF-52F2-4F3E-8613-EFC8DF14117D}.Release|Win32.Build.0 = Release|Win32
+		{4DB24F04-D12D-4B30-8F0B-9EA31A8A2703}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4DB24F04-D12D-4B30-8F0B-9EA31A8A2703}.Debug|Win32.Build.0 = Debug|Win32
+		{4DB24F04-D12D-4B30-8F0B-9EA31A8A2703}.Release|Win32.ActiveCfg = Release|Win32
+		{4DB24F04-D12D-4B30-8F0B-9EA31A8A2703}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
