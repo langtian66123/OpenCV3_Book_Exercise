@@ -93,6 +93,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "53_pyrDown", "53_pyrDown\53
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "54_PyrAndResize", "54_PyrAndResize\54_PyrAndResize.vcxproj", "{2C9B7F39-F4A1-4D90-B8EA-A6AADB6DBEFA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "55_threshold", "55_threshold\55_threshold.vcxproj", "{5ABD5538-4ED8-4376-8F32-7E5EE63FC387}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -283,6 +285,10 @@ Global
 		{2C9B7F39-F4A1-4D90-B8EA-A6AADB6DBEFA}.Debug|Win32.Build.0 = Debug|Win32
 		{2C9B7F39-F4A1-4D90-B8EA-A6AADB6DBEFA}.Release|Win32.ActiveCfg = Release|Win32
 		{2C9B7F39-F4A1-4D90-B8EA-A6AADB6DBEFA}.Release|Win32.Build.0 = Release|Win32
+		{5ABD5538-4ED8-4376-8F32-7E5EE63FC387}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5ABD5538-4ED8-4376-8F32-7E5EE63FC387}.Debug|Win32.Build.0 = Debug|Win32
+		{5ABD5538-4ED8-4376-8F32-7E5EE63FC387}.Release|Win32.ActiveCfg = Release|Win32
+		{5ABD5538-4ED8-4376-8F32-7E5EE63FC387}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
