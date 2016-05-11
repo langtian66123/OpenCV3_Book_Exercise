@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "31_boxFilter", "31_boxFilte
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "32_blur", "32_blur\32_blur.vcxproj", "{36680F85-CFCA-4739-88E3-7DD93C696B0B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "33_GaussianBlur", "33_GaussianBlur\33_GaussianBlur.vcxproj", "{314DA84A-5E5B-4545-AB6A-3BD2D7415258}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -193,6 +195,10 @@ Global
 		{36680F85-CFCA-4739-88E3-7DD93C696B0B}.Debug|Win32.Build.0 = Debug|Win32
 		{36680F85-CFCA-4739-88E3-7DD93C696B0B}.Release|Win32.ActiveCfg = Release|Win32
 		{36680F85-CFCA-4739-88E3-7DD93C696B0B}.Release|Win32.Build.0 = Release|Win32
+		{314DA84A-5E5B-4545-AB6A-3BD2D7415258}.Debug|Win32.ActiveCfg = Debug|Win32
+		{314DA84A-5E5B-4545-AB6A-3BD2D7415258}.Debug|Win32.Build.0 = Debug|Win32
+		{314DA84A-5E5B-4545-AB6A-3BD2D7415258}.Release|Win32.ActiveCfg = Release|Win32
+		{314DA84A-5E5B-4545-AB6A-3BD2D7415258}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
