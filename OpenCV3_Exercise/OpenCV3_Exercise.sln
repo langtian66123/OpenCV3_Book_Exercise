@@ -91,6 +91,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "52_pyrUp", "52_pyrUp\52_pyr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "53_pyrDown", "53_pyrDown\53_pyrDown.vcxproj", "{C387709B-82B3-46AF-A96A-ED1FD7116BE7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "54_PyrAndResize", "54_PyrAndResize\54_PyrAndResize.vcxproj", "{2C9B7F39-F4A1-4D90-B8EA-A6AADB6DBEFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -277,6 +279,10 @@ Global
 		{C387709B-82B3-46AF-A96A-ED1FD7116BE7}.Debug|Win32.Build.0 = Debug|Win32
 		{C387709B-82B3-46AF-A96A-ED1FD7116BE7}.Release|Win32.ActiveCfg = Release|Win32
 		{C387709B-82B3-46AF-A96A-ED1FD7116BE7}.Release|Win32.Build.0 = Release|Win32
+		{2C9B7F39-F4A1-4D90-B8EA-A6AADB6DBEFA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2C9B7F39-F4A1-4D90-B8EA-A6AADB6DBEFA}.Debug|Win32.Build.0 = Debug|Win32
+		{2C9B7F39-F4A1-4D90-B8EA-A6AADB6DBEFA}.Release|Win32.ActiveCfg = Release|Win32
+		{2C9B7F39-F4A1-4D90-B8EA-A6AADB6DBEFA}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
