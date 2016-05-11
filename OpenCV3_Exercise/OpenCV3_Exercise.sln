@@ -67,6 +67,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "33_GaussianBlur", "33_Gauss
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "34_LinearImageFilter", "34_LinearImageFilter\34_LinearImageFilter.vcxproj", "{3333FC1C-745A-46C5-9203-F9AC3BAE66F0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "35_medianBlur", "35_medianBlur\35_medianBlur.vcxproj", "{A159D8D1-C37D-4F38-B402-E0014869FB8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -205,6 +207,10 @@ Global
 		{3333FC1C-745A-46C5-9203-F9AC3BAE66F0}.Debug|Win32.Build.0 = Debug|Win32
 		{3333FC1C-745A-46C5-9203-F9AC3BAE66F0}.Release|Win32.ActiveCfg = Release|Win32
 		{3333FC1C-745A-46C5-9203-F9AC3BAE66F0}.Release|Win32.Build.0 = Release|Win32
+		{A159D8D1-C37D-4F38-B402-E0014869FB8D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A159D8D1-C37D-4F38-B402-E0014869FB8D}.Debug|Win32.Build.0 = Debug|Win32
+		{A159D8D1-C37D-4F38-B402-E0014869FB8D}.Release|Win32.ActiveCfg = Release|Win32
+		{A159D8D1-C37D-4F38-B402-E0014869FB8D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
