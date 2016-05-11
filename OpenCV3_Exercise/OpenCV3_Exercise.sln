@@ -87,6 +87,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "50_floodFill2", "50_floodFi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "51_resize", "51_resize\51_resize.vcxproj", "{04D041B2-A6B3-4DAA-B36C-4EB7D6B1B16D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "52_pyrUp", "52_pyrUp\52_pyrUp.vcxproj", "{3BC61B5D-090A-4FA7-B143-E650B5D07E02}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "53_pyrDown", "53_pyrDown\53_pyrDown.vcxproj", "{C387709B-82B3-46AF-A96A-ED1FD7116BE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -265,6 +269,14 @@ Global
 		{04D041B2-A6B3-4DAA-B36C-4EB7D6B1B16D}.Debug|Win32.Build.0 = Debug|Win32
 		{04D041B2-A6B3-4DAA-B36C-4EB7D6B1B16D}.Release|Win32.ActiveCfg = Release|Win32
 		{04D041B2-A6B3-4DAA-B36C-4EB7D6B1B16D}.Release|Win32.Build.0 = Release|Win32
+		{3BC61B5D-090A-4FA7-B143-E650B5D07E02}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3BC61B5D-090A-4FA7-B143-E650B5D07E02}.Debug|Win32.Build.0 = Debug|Win32
+		{3BC61B5D-090A-4FA7-B143-E650B5D07E02}.Release|Win32.ActiveCfg = Release|Win32
+		{3BC61B5D-090A-4FA7-B143-E650B5D07E02}.Release|Win32.Build.0 = Release|Win32
+		{C387709B-82B3-46AF-A96A-ED1FD7116BE7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C387709B-82B3-46AF-A96A-ED1FD7116BE7}.Debug|Win32.Build.0 = Debug|Win32
+		{C387709B-82B3-46AF-A96A-ED1FD7116BE7}.Release|Win32.ActiveCfg = Release|Win32
+		{C387709B-82B3-46AF-A96A-ED1FD7116BE7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
