@@ -79,6 +79,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "39_erode", "39_erode\39_ero
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "40_dilate_And_erode", "40_dilate_And_erode\40_dilate_And_erode.vcxproj", "{21A8CD97-80F0-4C2D-AA12-50459D211D02}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "48_Morphology", "48_Morphology\48_Morphology.vcxproj", "{E28EFEFF-52F2-4F3E-8613-EFC8DF14117D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -241,6 +243,10 @@ Global
 		{21A8CD97-80F0-4C2D-AA12-50459D211D02}.Debug|Win32.Build.0 = Debug|Win32
 		{21A8CD97-80F0-4C2D-AA12-50459D211D02}.Release|Win32.ActiveCfg = Release|Win32
 		{21A8CD97-80F0-4C2D-AA12-50459D211D02}.Release|Win32.Build.0 = Release|Win32
+		{E28EFEFF-52F2-4F3E-8613-EFC8DF14117D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E28EFEFF-52F2-4F3E-8613-EFC8DF14117D}.Debug|Win32.Build.0 = Debug|Win32
+		{E28EFEFF-52F2-4F3E-8613-EFC8DF14117D}.Release|Win32.ActiveCfg = Release|Win32
+		{E28EFEFF-52F2-4F3E-8613-EFC8DF14117D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
