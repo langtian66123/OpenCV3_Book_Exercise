@@ -131,6 +131,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "71_convexHull2", "71_convex
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "73_minAreaRect", "73_minAreaRect\73_minAreaRect.vcxproj", "{5A77F8A1-966E-48D8-BA52-E810CE9C5A87}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "74_minEnclosingCircle", "74_minEnclosingCircle\74_minEnclosingCircle.vcxproj", "{5527AFFC-F7CE-49DE-B0E6-F78D60C40E78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -397,6 +399,10 @@ Global
 		{5A77F8A1-966E-48D8-BA52-E810CE9C5A87}.Debug|Win32.Build.0 = Debug|Win32
 		{5A77F8A1-966E-48D8-BA52-E810CE9C5A87}.Release|Win32.ActiveCfg = Release|Win32
 		{5A77F8A1-966E-48D8-BA52-E810CE9C5A87}.Release|Win32.Build.0 = Release|Win32
+		{5527AFFC-F7CE-49DE-B0E6-F78D60C40E78}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5527AFFC-F7CE-49DE-B0E6-F78D60C40E78}.Debug|Win32.Build.0 = Debug|Win32
+		{5527AFFC-F7CE-49DE-B0E6-F78D60C40E78}.Release|Win32.ActiveCfg = Release|Win32
+		{5527AFFC-F7CE-49DE-B0E6-F78D60C40E78}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
