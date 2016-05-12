@@ -103,6 +103,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "58_Laplacian", "58_Laplacia
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "59_Scharr", "59_Scharr\59_Scharr.vcxproj", "{AEE5D8A9-9AD9-4C81-A863-A2EA977BD995}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "60_EdgeDetection", "60_EdgeDetection\60_EdgeDetection.vcxproj", "{BF84DDFF-423B-48EB-84DC-EA825B00DEF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -313,6 +315,10 @@ Global
 		{AEE5D8A9-9AD9-4C81-A863-A2EA977BD995}.Debug|Win32.Build.0 = Debug|Win32
 		{AEE5D8A9-9AD9-4C81-A863-A2EA977BD995}.Release|Win32.ActiveCfg = Release|Win32
 		{AEE5D8A9-9AD9-4C81-A863-A2EA977BD995}.Release|Win32.Build.0 = Release|Win32
+		{BF84DDFF-423B-48EB-84DC-EA825B00DEF8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF84DDFF-423B-48EB-84DC-EA825B00DEF8}.Debug|Win32.Build.0 = Debug|Win32
+		{BF84DDFF-423B-48EB-84DC-EA825B00DEF8}.Release|Win32.ActiveCfg = Release|Win32
+		{BF84DDFF-423B-48EB-84DC-EA825B00DEF8}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
