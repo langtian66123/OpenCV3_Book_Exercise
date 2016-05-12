@@ -97,6 +97,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "55_threshold", "55_threshol
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "56_canny", "56_canny\56_canny.vcxproj", "{9F8F9C8D-AAAD-4779-B3C1-729CC64BA63B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "57_sobel", "57_sobel\57_sobel.vcxproj", "{9953C0CE-1A1E-4E77-86B3-F4AC299B2EB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -295,6 +297,10 @@ Global
 		{9F8F9C8D-AAAD-4779-B3C1-729CC64BA63B}.Debug|Win32.Build.0 = Debug|Win32
 		{9F8F9C8D-AAAD-4779-B3C1-729CC64BA63B}.Release|Win32.ActiveCfg = Release|Win32
 		{9F8F9C8D-AAAD-4779-B3C1-729CC64BA63B}.Release|Win32.Build.0 = Release|Win32
+		{9953C0CE-1A1E-4E77-86B3-F4AC299B2EB9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9953C0CE-1A1E-4E77-86B3-F4AC299B2EB9}.Debug|Win32.Build.0 = Debug|Win32
+		{9953C0CE-1A1E-4E77-86B3-F4AC299B2EB9}.Release|Win32.ActiveCfg = Release|Win32
+		{9953C0CE-1A1E-4E77-86B3-F4AC299B2EB9}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
