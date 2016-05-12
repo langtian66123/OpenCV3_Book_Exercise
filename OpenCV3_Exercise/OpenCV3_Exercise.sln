@@ -137,6 +137,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "75_approxPolyDP", "75_appro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "76_ContourMoment", "76_ContourMoment\76_ContourMoment.vcxproj", "{F231DBB9-095E-4BB5-AB3A-065A71DF9A4B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "77_watershed", "77_watershed\77_watershed.vcxproj", "{4AD9118E-26AA-4046-B167-C688C76D84A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -415,6 +417,10 @@ Global
 		{F231DBB9-095E-4BB5-AB3A-065A71DF9A4B}.Debug|Win32.Build.0 = Debug|Win32
 		{F231DBB9-095E-4BB5-AB3A-065A71DF9A4B}.Release|Win32.ActiveCfg = Release|Win32
 		{F231DBB9-095E-4BB5-AB3A-065A71DF9A4B}.Release|Win32.Build.0 = Release|Win32
+		{4AD9118E-26AA-4046-B167-C688C76D84A7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4AD9118E-26AA-4046-B167-C688C76D84A7}.Debug|Win32.Build.0 = Debug|Win32
+		{4AD9118E-26AA-4046-B167-C688C76D84A7}.Release|Win32.ActiveCfg = Release|Win32
+		{4AD9118E-26AA-4046-B167-C688C76D84A7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
