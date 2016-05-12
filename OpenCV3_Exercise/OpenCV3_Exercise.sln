@@ -133,6 +133,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "73_minAreaRect", "73_minAre
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "74_minEnclosingCircle", "74_minEnclosingCircle\74_minEnclosingCircle.vcxproj", "{5527AFFC-F7CE-49DE-B0E6-F78D60C40E78}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "75_approxPolyDP", "75_approxPolyDP\75_approxPolyDP.vcxproj", "{72273034-FE16-40BA-8766-FA2475023D2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -403,6 +405,10 @@ Global
 		{5527AFFC-F7CE-49DE-B0E6-F78D60C40E78}.Debug|Win32.Build.0 = Debug|Win32
 		{5527AFFC-F7CE-49DE-B0E6-F78D60C40E78}.Release|Win32.ActiveCfg = Release|Win32
 		{5527AFFC-F7CE-49DE-B0E6-F78D60C40E78}.Release|Win32.Build.0 = Release|Win32
+		{72273034-FE16-40BA-8766-FA2475023D2E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{72273034-FE16-40BA-8766-FA2475023D2E}.Debug|Win32.Build.0 = Debug|Win32
+		{72273034-FE16-40BA-8766-FA2475023D2E}.Release|Win32.ActiveCfg = Release|Win32
+		{72273034-FE16-40BA-8766-FA2475023D2E}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
