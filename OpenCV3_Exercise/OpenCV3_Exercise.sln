@@ -127,6 +127,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "70_findAndDrawContours", "7
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "71_convexHull", "71_convexHull\71_convexHull.vcxproj", "{BF374D53-4F9F-466A-9E20-06AC567B7D4D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "71_convexHull2", "71_convexHull2\71_convexHull2.vcxproj", "{A4D98F6A-87FA-4AE7-A9AF-ADB241FFA6B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -385,6 +387,10 @@ Global
 		{BF374D53-4F9F-466A-9E20-06AC567B7D4D}.Debug|Win32.Build.0 = Debug|Win32
 		{BF374D53-4F9F-466A-9E20-06AC567B7D4D}.Release|Win32.ActiveCfg = Release|Win32
 		{BF374D53-4F9F-466A-9E20-06AC567B7D4D}.Release|Win32.Build.0 = Release|Win32
+		{A4D98F6A-87FA-4AE7-A9AF-ADB241FFA6B6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A4D98F6A-87FA-4AE7-A9AF-ADB241FFA6B6}.Debug|Win32.Build.0 = Debug|Win32
+		{A4D98F6A-87FA-4AE7-A9AF-ADB241FFA6B6}.Release|Win32.ActiveCfg = Release|Win32
+		{A4D98F6A-87FA-4AE7-A9AF-ADB241FFA6B6}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
