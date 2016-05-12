@@ -117,6 +117,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "65_remap", "65_remap\65_rem
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "66_remap2", "66_remap2\66_remap2.vcxproj", "{D364D3C0-13E1-40B7-8DCA-0AE6496646FF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "67_AffineTransform", "67_AffineTransform\67_AffineTransform.vcxproj", "{95DE461D-81A7-408E-8EA4-403557B9FDDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -355,6 +357,10 @@ Global
 		{D364D3C0-13E1-40B7-8DCA-0AE6496646FF}.Debug|Win32.Build.0 = Debug|Win32
 		{D364D3C0-13E1-40B7-8DCA-0AE6496646FF}.Release|Win32.ActiveCfg = Release|Win32
 		{D364D3C0-13E1-40B7-8DCA-0AE6496646FF}.Release|Win32.Build.0 = Release|Win32
+		{95DE461D-81A7-408E-8EA4-403557B9FDDF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{95DE461D-81A7-408E-8EA4-403557B9FDDF}.Debug|Win32.Build.0 = Debug|Win32
+		{95DE461D-81A7-408E-8EA4-403557B9FDDF}.Release|Win32.ActiveCfg = Release|Win32
+		{95DE461D-81A7-408E-8EA4-403557B9FDDF}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
