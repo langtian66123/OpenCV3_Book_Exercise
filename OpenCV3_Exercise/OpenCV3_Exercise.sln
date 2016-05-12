@@ -111,6 +111,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "62_HoughLinesP", "62_HoughL
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "63_HoughCircles", "63_HoughCircles\63_HoughCircles.vcxproj", "{04C11600-A1EE-4F3A-B7AC-27F0FFD91224}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "64_HoughLines", "64_HoughLines\64_HoughLines.vcxproj", "{CF0E8D15-9985-425B-AF77-6B0875950C9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -337,6 +339,10 @@ Global
 		{04C11600-A1EE-4F3A-B7AC-27F0FFD91224}.Debug|Win32.Build.0 = Debug|Win32
 		{04C11600-A1EE-4F3A-B7AC-27F0FFD91224}.Release|Win32.ActiveCfg = Release|Win32
 		{04C11600-A1EE-4F3A-B7AC-27F0FFD91224}.Release|Win32.Build.0 = Release|Win32
+		{CF0E8D15-9985-425B-AF77-6B0875950C9D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF0E8D15-9985-425B-AF77-6B0875950C9D}.Debug|Win32.Build.0 = Debug|Win32
+		{CF0E8D15-9985-425B-AF77-6B0875950C9D}.Release|Win32.ActiveCfg = Release|Win32
+		{CF0E8D15-9985-425B-AF77-6B0875950C9D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
