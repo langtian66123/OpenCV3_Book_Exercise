@@ -139,6 +139,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "76_ContourMoment", "76_Cont
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "77_watershed", "77_watershed\77_watershed.vcxproj", "{4AD9118E-26AA-4046-B167-C688C76D84A7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "78_inpaint", "78_inpaint\78_inpaint.vcxproj", "{0B123681-4225-42DF-9ACF-66771D549D2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -421,6 +423,10 @@ Global
 		{4AD9118E-26AA-4046-B167-C688C76D84A7}.Debug|Win32.Build.0 = Debug|Win32
 		{4AD9118E-26AA-4046-B167-C688C76D84A7}.Release|Win32.ActiveCfg = Release|Win32
 		{4AD9118E-26AA-4046-B167-C688C76D84A7}.Release|Win32.Build.0 = Release|Win32
+		{0B123681-4225-42DF-9ACF-66771D549D2E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0B123681-4225-42DF-9ACF-66771D549D2E}.Debug|Win32.Build.0 = Debug|Win32
+		{0B123681-4225-42DF-9ACF-66771D549D2E}.Release|Win32.ActiveCfg = Release|Win32
+		{0B123681-4225-42DF-9ACF-66771D549D2E}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
