@@ -113,6 +113,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "63_HoughCircles", "63_Hough
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "64_HoughLines", "64_HoughLines\64_HoughLines.vcxproj", "{CF0E8D15-9985-425B-AF77-6B0875950C9D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "65_remap", "65_remap\65_remap.vcxproj", "{DF0CD535-15F5-4E84-86F1-32859F722FC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -343,6 +345,10 @@ Global
 		{CF0E8D15-9985-425B-AF77-6B0875950C9D}.Debug|Win32.Build.0 = Debug|Win32
 		{CF0E8D15-9985-425B-AF77-6B0875950C9D}.Release|Win32.ActiveCfg = Release|Win32
 		{CF0E8D15-9985-425B-AF77-6B0875950C9D}.Release|Win32.Build.0 = Release|Win32
+		{DF0CD535-15F5-4E84-86F1-32859F722FC3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DF0CD535-15F5-4E84-86F1-32859F722FC3}.Debug|Win32.Build.0 = Debug|Win32
+		{DF0CD535-15F5-4E84-86F1-32859F722FC3}.Release|Win32.ActiveCfg = Release|Win32
+		{DF0CD535-15F5-4E84-86F1-32859F722FC3}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
