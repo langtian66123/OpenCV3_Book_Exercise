@@ -101,6 +101,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "57_sobel", "57_sobel\57_sob
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "58_Laplacian", "58_Laplacian\58_Laplacian.vcxproj", "{3FC9E0F6-2766-4DBB-9725-EAEDBD32DD55}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "59_Scharr", "59_Scharr\59_Scharr.vcxproj", "{AEE5D8A9-9AD9-4C81-A863-A2EA977BD995}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -307,6 +309,10 @@ Global
 		{3FC9E0F6-2766-4DBB-9725-EAEDBD32DD55}.Debug|Win32.Build.0 = Debug|Win32
 		{3FC9E0F6-2766-4DBB-9725-EAEDBD32DD55}.Release|Win32.ActiveCfg = Release|Win32
 		{3FC9E0F6-2766-4DBB-9725-EAEDBD32DD55}.Release|Win32.Build.0 = Release|Win32
+		{AEE5D8A9-9AD9-4C81-A863-A2EA977BD995}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AEE5D8A9-9AD9-4C81-A863-A2EA977BD995}.Debug|Win32.Build.0 = Debug|Win32
+		{AEE5D8A9-9AD9-4C81-A863-A2EA977BD995}.Release|Win32.ActiveCfg = Release|Win32
+		{AEE5D8A9-9AD9-4C81-A863-A2EA977BD995}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
