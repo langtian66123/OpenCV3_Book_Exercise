@@ -123,6 +123,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "68_equalizeHist", "68_equal
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "69_findContours", "69_findContours\69_findContours.vcxproj", "{6251A10D-A67F-4F8D-ADCA-7B370D980D61}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "70_findAndDrawContours", "70_findAndDrawContours\70_findAndDrawContours.vcxproj", "{D6849BDD-12EE-4F9A-87A3-0BA9C861D9B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -373,6 +375,10 @@ Global
 		{6251A10D-A67F-4F8D-ADCA-7B370D980D61}.Debug|Win32.Build.0 = Debug|Win32
 		{6251A10D-A67F-4F8D-ADCA-7B370D980D61}.Release|Win32.ActiveCfg = Release|Win32
 		{6251A10D-A67F-4F8D-ADCA-7B370D980D61}.Release|Win32.Build.0 = Release|Win32
+		{D6849BDD-12EE-4F9A-87A3-0BA9C861D9B3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D6849BDD-12EE-4F9A-87A3-0BA9C861D9B3}.Debug|Win32.Build.0 = Debug|Win32
+		{D6849BDD-12EE-4F9A-87A3-0BA9C861D9B3}.Release|Win32.ActiveCfg = Release|Win32
+		{D6849BDD-12EE-4F9A-87A3-0BA9C861D9B3}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
