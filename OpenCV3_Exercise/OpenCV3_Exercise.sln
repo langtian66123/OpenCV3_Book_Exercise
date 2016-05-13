@@ -141,6 +141,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "77_watershed", "77_watershe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "78_inpaint", "78_inpaint\78_inpaint.vcxproj", "{0B123681-4225-42DF-9ACF-66771D549D2E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "79_H-S-Histogram", "79_H-S-Histogram\79_H-S-Histogram.vcxproj", "{6695B87B-CA4F-427F-BAC1-AC03DDD7C1B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -427,6 +429,10 @@ Global
 		{0B123681-4225-42DF-9ACF-66771D549D2E}.Debug|Win32.Build.0 = Debug|Win32
 		{0B123681-4225-42DF-9ACF-66771D549D2E}.Release|Win32.ActiveCfg = Release|Win32
 		{0B123681-4225-42DF-9ACF-66771D549D2E}.Release|Win32.Build.0 = Release|Win32
+		{6695B87B-CA4F-427F-BAC1-AC03DDD7C1B3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6695B87B-CA4F-427F-BAC1-AC03DDD7C1B3}.Debug|Win32.Build.0 = Debug|Win32
+		{6695B87B-CA4F-427F-BAC1-AC03DDD7C1B3}.Release|Win32.ActiveCfg = Release|Win32
+		{6695B87B-CA4F-427F-BAC1-AC03DDD7C1B3}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
