@@ -159,6 +159,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "86_cornerHarris", "86_corne
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "87_goodFeaturesToTrack", "87_goodFeaturesToTrack\87_goodFeaturesToTrack.vcxproj", "{0B733E7C-5751-45FC-ADEA-9B206CD19031}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "88_cornerSubPix", "88_cornerSubPix\88_cornerSubPix.vcxproj", "{EEEEB8C7-50DA-476B-BA08-090A0ACC7583}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -481,6 +483,10 @@ Global
 		{0B733E7C-5751-45FC-ADEA-9B206CD19031}.Debug|Win32.Build.0 = Debug|Win32
 		{0B733E7C-5751-45FC-ADEA-9B206CD19031}.Release|Win32.ActiveCfg = Release|Win32
 		{0B733E7C-5751-45FC-ADEA-9B206CD19031}.Release|Win32.Build.0 = Release|Win32
+		{EEEEB8C7-50DA-476B-BA08-090A0ACC7583}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EEEEB8C7-50DA-476B-BA08-090A0ACC7583}.Debug|Win32.Build.0 = Debug|Win32
+		{EEEEB8C7-50DA-476B-BA08-090A0ACC7583}.Release|Win32.ActiveCfg = Release|Win32
+		{EEEEB8C7-50DA-476B-BA08-090A0ACC7583}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
