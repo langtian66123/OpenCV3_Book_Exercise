@@ -173,6 +173,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "93_SiftAndBFMatcher", "93_S
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "94_FindObject", "94_FindObject\94_FindObject.vcxproj", "{898FE84C-C2B7-4C4D-AABC-5DCB58061CDA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "95_OrbFeatureDetector", "95_OrbFeatureDetector\95_OrbFeatureDetector.vcxproj", "{6303B6D4-EF5B-4E6C-96C2-5E99D4FC1A6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -523,6 +525,10 @@ Global
 		{898FE84C-C2B7-4C4D-AABC-5DCB58061CDA}.Debug|Win32.Build.0 = Debug|Win32
 		{898FE84C-C2B7-4C4D-AABC-5DCB58061CDA}.Release|Win32.ActiveCfg = Release|Win32
 		{898FE84C-C2B7-4C4D-AABC-5DCB58061CDA}.Release|Win32.Build.0 = Release|Win32
+		{6303B6D4-EF5B-4E6C-96C2-5E99D4FC1A6C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6303B6D4-EF5B-4E6C-96C2-5E99D4FC1A6C}.Debug|Win32.Build.0 = Debug|Win32
+		{6303B6D4-EF5B-4E6C-96C2-5E99D4FC1A6C}.Release|Win32.ActiveCfg = Release|Win32
+		{6303B6D4-EF5B-4E6C-96C2-5E99D4FC1A6C}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
