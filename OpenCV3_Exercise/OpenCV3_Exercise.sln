@@ -165,6 +165,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "89_SurfFeatureDetector", "8
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "90_SurfDescriptorExtractor", "90_SurfDescriptorExtractor\90_SurfDescriptorExtractor.vcxproj", "{0E7F04BA-0EE3-4F54-B0F0-51D6920805AD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "91_FlannBasedMatcher", "91_FlannBasedMatcher\91_FlannBasedMatcher.vcxproj", "{6AC1CD6A-F9F6-43C3-87B9-DA0C25133A60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -499,6 +501,10 @@ Global
 		{0E7F04BA-0EE3-4F54-B0F0-51D6920805AD}.Debug|Win32.Build.0 = Debug|Win32
 		{0E7F04BA-0EE3-4F54-B0F0-51D6920805AD}.Release|Win32.ActiveCfg = Release|Win32
 		{0E7F04BA-0EE3-4F54-B0F0-51D6920805AD}.Release|Win32.Build.0 = Release|Win32
+		{6AC1CD6A-F9F6-43C3-87B9-DA0C25133A60}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6AC1CD6A-F9F6-43C3-87B9-DA0C25133A60}.Debug|Win32.Build.0 = Debug|Win32
+		{6AC1CD6A-F9F6-43C3-87B9-DA0C25133A60}.Release|Win32.ActiveCfg = Release|Win32
+		{6AC1CD6A-F9F6-43C3-87B9-DA0C25133A60}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
