@@ -149,6 +149,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "81_Histogram3", "81_Histogr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "82_CompareHist", "82_CompareHist\82_CompareHist.vcxproj", "{0E5CB6C4-BDEE-4B94-A326-E3742114ECE3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "83_CalcBackProject", "83_CalcBackProject\83_CalcBackProject.vcxproj", "{3D6ED337-5BEF-45E8-9545-3D15855A7172}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -451,6 +453,10 @@ Global
 		{0E5CB6C4-BDEE-4B94-A326-E3742114ECE3}.Debug|Win32.Build.0 = Debug|Win32
 		{0E5CB6C4-BDEE-4B94-A326-E3742114ECE3}.Release|Win32.ActiveCfg = Release|Win32
 		{0E5CB6C4-BDEE-4B94-A326-E3742114ECE3}.Release|Win32.Build.0 = Release|Win32
+		{3D6ED337-5BEF-45E8-9545-3D15855A7172}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3D6ED337-5BEF-45E8-9545-3D15855A7172}.Debug|Win32.Build.0 = Debug|Win32
+		{3D6ED337-5BEF-45E8-9545-3D15855A7172}.Release|Win32.ActiveCfg = Release|Win32
+		{3D6ED337-5BEF-45E8-9545-3D15855A7172}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
