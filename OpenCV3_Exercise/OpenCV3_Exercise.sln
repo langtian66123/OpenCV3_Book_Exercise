@@ -153,6 +153,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "83_CalcBackProject", "83_Ca
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "84_matchTemplate", "84_matchTemplate\84_matchTemplate.vcxproj", "{6536FE6D-10B6-429C-85FA-132A1012CEB9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "85_cornerHarris", "85_cornerHarris\85_cornerHarris.vcxproj", "{6B4B301B-3228-4F09-A3B1-0702CEBCDD6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -463,6 +465,10 @@ Global
 		{6536FE6D-10B6-429C-85FA-132A1012CEB9}.Debug|Win32.Build.0 = Debug|Win32
 		{6536FE6D-10B6-429C-85FA-132A1012CEB9}.Release|Win32.ActiveCfg = Release|Win32
 		{6536FE6D-10B6-429C-85FA-132A1012CEB9}.Release|Win32.Build.0 = Release|Win32
+		{6B4B301B-3228-4F09-A3B1-0702CEBCDD6E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B4B301B-3228-4F09-A3B1-0702CEBCDD6E}.Debug|Win32.Build.0 = Debug|Win32
+		{6B4B301B-3228-4F09-A3B1-0702CEBCDD6E}.Release|Win32.ActiveCfg = Release|Win32
+		{6B4B301B-3228-4F09-A3B1-0702CEBCDD6E}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
