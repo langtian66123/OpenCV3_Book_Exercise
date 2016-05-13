@@ -155,6 +155,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "84_matchTemplate", "84_matc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "85_cornerHarris", "85_cornerHarris\85_cornerHarris.vcxproj", "{6B4B301B-3228-4F09-A3B1-0702CEBCDD6E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "86_cornerHarris", "86_cornerHarris\86_cornerHarris.vcxproj", "{4B43073D-D175-4CAE-B370-224630DDE6F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -469,6 +471,10 @@ Global
 		{6B4B301B-3228-4F09-A3B1-0702CEBCDD6E}.Debug|Win32.Build.0 = Debug|Win32
 		{6B4B301B-3228-4F09-A3B1-0702CEBCDD6E}.Release|Win32.ActiveCfg = Release|Win32
 		{6B4B301B-3228-4F09-A3B1-0702CEBCDD6E}.Release|Win32.Build.0 = Release|Win32
+		{4B43073D-D175-4CAE-B370-224630DDE6F4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4B43073D-D175-4CAE-B370-224630DDE6F4}.Debug|Win32.Build.0 = Debug|Win32
+		{4B43073D-D175-4CAE-B370-224630DDE6F4}.Release|Win32.ActiveCfg = Release|Win32
+		{4B43073D-D175-4CAE-B370-224630DDE6F4}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
