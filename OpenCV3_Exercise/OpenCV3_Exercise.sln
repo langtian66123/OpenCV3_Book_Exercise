@@ -171,6 +171,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "92_FLANN_and_SURF", "92_FLA
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "93_SiftAndBFMatcher", "93_SiftAndBFMatcher\93_SiftAndBFMatcher.vcxproj", "{1CE3BFCA-E141-4799-929F-B1CD14D9AA15}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "94_FindObject", "94_FindObject\94_FindObject.vcxproj", "{898FE84C-C2B7-4C4D-AABC-5DCB58061CDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -517,6 +519,10 @@ Global
 		{1CE3BFCA-E141-4799-929F-B1CD14D9AA15}.Debug|Win32.Build.0 = Debug|Win32
 		{1CE3BFCA-E141-4799-929F-B1CD14D9AA15}.Release|Win32.ActiveCfg = Release|Win32
 		{1CE3BFCA-E141-4799-929F-B1CD14D9AA15}.Release|Win32.Build.0 = Release|Win32
+		{898FE84C-C2B7-4C4D-AABC-5DCB58061CDA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{898FE84C-C2B7-4C4D-AABC-5DCB58061CDA}.Debug|Win32.Build.0 = Debug|Win32
+		{898FE84C-C2B7-4C4D-AABC-5DCB58061CDA}.Release|Win32.ActiveCfg = Release|Win32
+		{898FE84C-C2B7-4C4D-AABC-5DCB58061CDA}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
