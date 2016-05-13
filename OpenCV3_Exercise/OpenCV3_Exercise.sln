@@ -147,6 +147,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "80_Histogram2", "80_Histogr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "81_Histogram3", "81_Histogram3\81_Histogram3.vcxproj", "{22BB8ED2-BFCC-43AE-B368-7A04E7BB3291}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "82_CompareHist", "82_CompareHist\82_CompareHist.vcxproj", "{0E5CB6C4-BDEE-4B94-A326-E3742114ECE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -445,6 +447,10 @@ Global
 		{22BB8ED2-BFCC-43AE-B368-7A04E7BB3291}.Debug|Win32.Build.0 = Debug|Win32
 		{22BB8ED2-BFCC-43AE-B368-7A04E7BB3291}.Release|Win32.ActiveCfg = Release|Win32
 		{22BB8ED2-BFCC-43AE-B368-7A04E7BB3291}.Release|Win32.Build.0 = Release|Win32
+		{0E5CB6C4-BDEE-4B94-A326-E3742114ECE3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0E5CB6C4-BDEE-4B94-A326-E3742114ECE3}.Debug|Win32.Build.0 = Debug|Win32
+		{0E5CB6C4-BDEE-4B94-A326-E3742114ECE3}.Release|Win32.ActiveCfg = Release|Win32
+		{0E5CB6C4-BDEE-4B94-A326-E3742114ECE3}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
