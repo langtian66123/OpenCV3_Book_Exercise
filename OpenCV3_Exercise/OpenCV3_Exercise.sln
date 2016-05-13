@@ -167,6 +167,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "90_SurfDescriptorExtractor"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "91_FlannBasedMatcher", "91_FlannBasedMatcher\91_FlannBasedMatcher.vcxproj", "{6AC1CD6A-F9F6-43C3-87B9-DA0C25133A60}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "92_FLANN_and_SURF", "92_FLANN_and_SURF\92_FLANN_and_SURF.vcxproj", "{1107894D-F476-4926-9340-58F59926B9A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -505,6 +507,10 @@ Global
 		{6AC1CD6A-F9F6-43C3-87B9-DA0C25133A60}.Debug|Win32.Build.0 = Debug|Win32
 		{6AC1CD6A-F9F6-43C3-87B9-DA0C25133A60}.Release|Win32.ActiveCfg = Release|Win32
 		{6AC1CD6A-F9F6-43C3-87B9-DA0C25133A60}.Release|Win32.Build.0 = Release|Win32
+		{1107894D-F476-4926-9340-58F59926B9A4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1107894D-F476-4926-9340-58F59926B9A4}.Debug|Win32.Build.0 = Debug|Win32
+		{1107894D-F476-4926-9340-58F59926B9A4}.Release|Win32.ActiveCfg = Release|Win32
+		{1107894D-F476-4926-9340-58F59926B9A4}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
